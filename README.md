@@ -24,13 +24,13 @@ My work has involved coordinating operational routines, reviewing procedures, mo
 
 ## Portfolio roadmap
 
-I'm building independent demonstration projects using **fictional data**:
+My independent portfolio uses **fictional data and scenarios**:
 
-1. **Administrative Process Documentation** — workflow map, standard procedure, and checklist.
-2. **Operational KPI Tracker** — spreadsheet-based task, deadline, and performance monitoring.
-3. **Training and Certificate Tracker** — training records and expiry-date controls.
+1. [**Administrative Process Documentation**](portfolio/administrative-process/README.md) — published demonstration: workflow map, standard procedure, quality checklist and KPI definitions.
+2. **Operational KPI Tracker (planned)** — spreadsheet-based task, deadline, and performance monitoring.
+3. **Training and Certificate Tracker (planned)** — training records and expiry-date controls.
 
-These will be published as demonstrations, not as commissioned client work.
+These are independent demonstrations, not commissioned client work or evidence of measured business results.
 
 ## Connect
 
