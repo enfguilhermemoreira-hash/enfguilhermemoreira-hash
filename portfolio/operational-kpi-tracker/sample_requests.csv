@@ -1,0 +1,9 @@
+request_id,received_date,original_due_date,closed_date,status,owner,first_review_result,defect_category
+REQ-001,2026-10-01,2026-10-05,2026-10-03,Closed,Analyst A,Pass,
+REQ-002,2026-10-02,2026-10-06,2026-10-08,Closed,Analyst B,Fail,Missing attachment
+REQ-003,2026-10-03,2026-10-09,2026-10-09,Closed,Analyst A,Pass,
+REQ-004,2026-10-04,2026-10-10,,Open,Analyst B,,
+REQ-005,2026-10-05,2026-10-12,,Waiting for information,Analyst A,,
+REQ-006,2026-10-06,2026-10-13,2026-10-11,Closed,Analyst B,Fail,Incorrect classification
+REQ-007,2026-10-07,2026-10-14,,Duplicate,Analyst A,,
+REQ-008,2026-10-08,2026-10-15,2026-10-16,Closed,Analyst A,Pass,
