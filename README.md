@@ -27,7 +27,7 @@ My work has involved coordinating operational routines, reviewing procedures, mo
 My independent portfolio uses **fictional data and scenarios**:
 
 1. [**Administrative Process Documentation**](portfolio/administrative-process/README.md) — published demonstration: workflow map, standard procedure, quality checklist and KPI definitions.
-2. **Operational KPI Tracker (planned)** — spreadsheet-based task, deadline, and performance monitoring.
+2. [**Operational KPI Tracker**](portfolio/operational-kpi-tracker/README.md) — published synthetic CSV dataset, spreadsheet formulas, KPI definitions and validation checks.
 3. **Training and Certificate Tracker (planned)** — training records and expiry-date controls.
 
 These are independent demonstrations, not commissioned client work or evidence of measured business results.
