@@ -29,7 +29,7 @@ Open the CSV in Excel or Google Sheets. For the formulas below, assume headers a
 | On-time closure | Eligible closed requests closed on/before original due date ÷ all eligible closed requests | **3 / 5 = 60%** |
 | First-pass quality | First reviews marked Pass ÷ all first reviews marked Pass or Fail | **3 / 5 = 60%** |
 | Open overdue backlog | Eligible non-closed requests due before 2026-10-17 | **2 requests** |
-| Median cycle time | Median calendar days between receipt and closure for eligible closed requests | **5 days** |
+| Median cycle time | Median calendar days between receipt and closure for eligible closed requests | **6 days** |
 
 **Eligibility:** exclude Duplicate and Cancelled (if added in future). Waiting for information remains eligible and does not pause the original due date. For first-pass quality, only reviewed items enter the denominator. If a denominator is zero, display **N/A**, never 0%.
 
